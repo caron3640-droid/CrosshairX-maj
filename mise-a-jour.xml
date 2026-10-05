@@ -3,6 +3,6 @@
   <Version>1.0.2</Version>
   <Adresse>https://raw.githubusercontent.com/caron3640-droid/CrosshairX-maj/main/mise-a-jour.xml</Adresse>
   <Message>Optimisation CPU : réglages 72 % plus légers + fenêtre de mise à jour refaite</Message>
-  <Fichier Nom="CrosshairX.exe" Sha256="56C23DF51C7B0991D9ECD15D9AC90DCFF26F9DD6F0B8C748FD4FC3651385E956" />
+  <Fichier Nom="CrosshairX.exe" Sha256="BFF0EDAED94B00E0A1D567FDC60BB6F7950A5F0EF50FAB87A103820C951788BC" />
   <Fichier Nom="revoquees.xml" Sha256="2F44E4F0924205322410A46E3CFD56B899A027A2D32F42D193274D292FBAB28C" />
 </MiseAJour>
