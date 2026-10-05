@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MiseAJour>
+  <Version>1.0.1</Version>
+  <Adresse>https://raw.githubusercontent.com/caron3640-droid/CrosshairX-maj/main/mise-a-jour.xml</Adresse>
+  <Message>Publication depuis l'application</Message>
+  <Fichier Nom="CrosshairX.exe" Sha256="0BE8772EE4F17EED175B9695C8BB81BE283AA7D87AFD645F9F06A56B02D67608" />
+  <Fichier Nom="revoquees.xml" Sha256="2F44E4F0924205322410A46E3CFD56B899A027A2D32F42D193274D292FBAB28C" />
+</MiseAJour>
