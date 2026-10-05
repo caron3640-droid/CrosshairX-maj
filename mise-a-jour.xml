@@ -3,6 +3,6 @@
   <Version>1.0.3</Version>
   <Adresse>https://raw.githubusercontent.com/caron3640-droid/CrosshairX-maj/main/mise-a-jour.xml</Adresse>
   <Message>Plein écran : le réticule reste au-dessus du jeu</Message>
-  <Fichier Nom="CrosshairX.exe" Sha256="8793A850689B88FD37FC65D9410E2041DB023951931C4A65D8F28AA9F5141B4B" />
+  <Fichier Nom="CrosshairX.exe" Sha256="45F7FAEAB0110066FBDBB986363DB89EE8769D3836775CEEB857BB110A3468F9" />
   <Fichier Nom="revoquees.xml" Sha256="C41A7F6B1C0B6022DC3A5454064D839CD268432355B7C7FC8C3C69E6C95ED3D5" />
 </MiseAJour>
