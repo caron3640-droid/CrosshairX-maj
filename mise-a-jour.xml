@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MiseAJour>
-  <Version>1.0.2</Version>
+  <Version>1.0.3</Version>
   <Adresse>https://raw.githubusercontent.com/caron3640-droid/CrosshairX-maj/main/mise-a-jour.xml</Adresse>
-  <Message>Mise à jour de la liste des keys</Message>
-  <Fichier Nom="CrosshairX.exe" Sha256="A883D424954EBC4DC446AC1FA3A1CBD128BFFAAE866E2F0BF37152FC16238545" />
+  <Message>Plein écran : le réticule reste au-dessus du jeu</Message>
+  <Fichier Nom="CrosshairX.exe" Sha256="8793A850689B88FD37FC65D9410E2041DB023951931C4A65D8F28AA9F5141B4B" />
   <Fichier Nom="revoquees.xml" Sha256="C41A7F6B1C0B6022DC3A5454064D839CD268432355B7C7FC8C3C69E6C95ED3D5" />
 </MiseAJour>
